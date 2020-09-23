@@ -22,7 +22,9 @@ En este repositorio se observaran tres carpetas:
 ### Contenido de la carpeta "Ejercicio 2"
 
 1- ventaslibros.ipynb
-  Se encuentra diferentes codigos para compara la base de datos "libros_24_meses.txt" y "catalogo_libros.txt" para obtener la cantidad de libros que se han vendido tomando en cuenta la practicas de codigo limpio y diferentes soluciones para conocer que codigo es mas eficiente.
+  Se encuentra diferentes codigos para compara la base de datos "libros_24_meses.txt" y "catalogo_libros.txt" para obtener 
+  la cantidad de libros que se han vendido tomando en cuenta la practicas de codigo limpio y diferentes soluciones para 
+  conocer que codigo es mas eficiente.
   
   Es necesario tomar en cuenta:
   1- Importar libreria "time"
@@ -38,7 +40,9 @@ En este repositorio se observaran tres carpetas:
 ### Contenido de la carpeta "Ejercicio 3"
 
 1- Libros_Regalos.ipynb
-  Se encuentra diferentes codigos para conocer la cantidad de inversion que una empresa debera realizar en un proyecto de regalos para los que compren libros con un precio menor a $25 dolares, tomando en cuenta la base de datos "costos.txt" ademas de adaptando las diferentes practicas de codigo limpio y eficiente.
+  Se encuentra diferentes codigos para conocer la cantidad de inversion que una empresa debera realizar en un proyecto 
+  de regalos para los que compren libros con un precio menor a $25 dolares, tomando en cuenta la base de datos "costos.txt" 
+  ademas de adaptando las diferentes practicas de codigo limpio y eficiente.
   
   Es necesario tomar en cuenta:
   1- Importar libreria "time"

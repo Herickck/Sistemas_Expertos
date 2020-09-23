@@ -50,4 +50,4 @@ En este repositorio se observaran tres carpetas:
   3- Importar libreria "pandas"
   
 2- costos.rar
-  Para obtener la base de datos se debe extrar del archivo .rar y se obtendra "costos.txt
+  Para obtener la base de datos se debe extrar del archivo .rar y se obtendra "costos.txt"

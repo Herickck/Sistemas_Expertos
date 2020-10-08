@@ -18,4 +18,4 @@ En este repostiorio existen 3 ramas
   
   Importate! - Importar librerias time,pandas,numpy para evitar problemas en el codigo.
   
-  Video Tutorial: 
+  Video Tutorial: https://youtu.be/k5mTovPYO70
